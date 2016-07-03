@@ -1,0 +1,110 @@
+{
+    "code": 200, 
+    "message": "get success", 
+    "discount_list": [
+        {
+            "id": "1", 
+            "name": "皇堡", 
+            "img": {
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+            }, 
+            "vote": {
+                "show": 1, 
+                "good": 210, 
+                "bad": 210
+            }, 
+            "price": "10元", 
+            "over_time": "截止至2016年10月10日", 
+            "description": {
+                "message": "小编推荐", 
+                "photos": [
+                    {
+                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                    }, 
+                    {
+                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                    }
+                ]
+            }
+        }, 
+        {
+            "id": "1", 
+            "name": "皇堡", 
+            "img": {
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+            }, 
+            "vote": {
+                "show": 1, 
+                "good": 210, 
+                "bad": 210
+            }, 
+            "price": "10元", 
+            "over_time": "截止至2016年10月10日", 
+            "description": {
+                "message": "小编推荐", 
+                "photos": [
+                    {
+                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                    }, 
+                    {
+                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                    }
+                ]
+            }
+        }, 
+        {
+            "id": "1", 
+            "name": "皇堡", 
+            "img": {
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+            }, 
+            "vote": {
+                "show": 1, 
+                "good": 210, 
+                "bad": 210
+            }, 
+            "price": "10元", 
+            "over_time": "截止至2016年10月10日", 
+            "description": {
+                "message": "小编推荐", 
+                "photos": [
+                    {
+                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                    }, 
+                    {
+                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                    }
+                ]
+            }
+        }, 
+        {
+            "id": "1", 
+            "name": "皇堡", 
+            "img": {
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+            }, 
+            "vote": {
+                "show": 1, 
+                "good": 210, 
+                "bad": 210
+            }, 
+            "price": "10元", 
+            "over_time": "截止至2016年10月10日", 
+            "description": {
+                "message": "小编推荐", 
+                "photos": [
+                    {
+                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                    }, 
+                    {
+                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}
