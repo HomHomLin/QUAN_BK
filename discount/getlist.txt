@@ -19,12 +19,8 @@
             "description": {
                 "message": "小编推荐", 
                 "photos": [
-                    {
-                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
-                    }, 
-                    {
-                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
-                    }
+                    "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
+                    "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
                 ]
             }
         }, 
@@ -45,12 +41,8 @@
             "description": {
                 "message": "小编推荐", 
                 "photos": [
-                    {
-                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
-                    }, 
-                    {
-                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
-                    }
+                    "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
+                    "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
                 ]
             }
         }, 
@@ -71,12 +63,8 @@
             "description": {
                 "message": "小编推荐", 
                 "photos": [
-                    {
-                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
-                    }, 
-                    {
-                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
-                    }
+                    "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
+                    "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
                 ]
             }
         }, 
@@ -97,12 +85,8 @@
             "description": {
                 "message": "小编推荐", 
                 "photos": [
-                    {
-                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
-                    }, 
-                    {
-                        "img": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
-                    }
+                    "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
+                    "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
                 ]
             }
         }
