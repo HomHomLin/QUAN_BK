@@ -1,6 +1,6 @@
 {
     "code": 200, 
-    "message": "get success", 
+    "msg": "get success", 
     "discount_list": [
         {
             "id": "1", 
