@@ -7,7 +7,7 @@
             "name": "A01 桑巴烤菠萝牛堡+桑格利亚果泡饮", 
             "img": {
                 "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
-                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_b.jpg"
             }, 
             "vote": {
                 "show": 1, 
@@ -28,8 +28,8 @@
             "id": "1", 
             "name": "A02 桑巴烤菠萝鸡堡+桑格利亚果泡饮", 
             "img": {
-                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
-                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A02_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A02_b.jpg"
             }, 
             "vote": {
                 "show": 1, 
@@ -50,8 +50,8 @@
             "id": "1", 
             "name": "A03 桑巴烤菠萝牛堡", 
             "img": {
-                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
-                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A03_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A03_b.jpg"
             }, 
             "vote": {
                 "show": 1, 
@@ -72,8 +72,8 @@
             "id": "1", 
             "name": "A04 桑巴烤菠萝鸡堡", 
             "img": {
-                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
-                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A04_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A04_b.jpg"
             }, 
             "vote": {
                 "show": 1, 
@@ -94,8 +94,8 @@
             "id": "1", 
             "name": "A05 热带水果新地", 
             "img": {
-                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
-                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A05_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A05_b.jpg"
             }, 
             "vote": {
                 "show": 1, 
@@ -116,8 +116,8 @@
             "id": "1", 
             "name": "A06 皇室霸王双人套餐", 
             "img": {
-                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
-                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A06_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A06_b.jpg"
             }, 
             "vote": {
                 "show": 1, 
@@ -138,8 +138,8 @@
             "id": "1", 
             "name": "A07 霸王鸡腿皇堡双人套餐", 
             "img": {
-                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
-                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A07_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A07_b.jpg"
             }, 
             "vote": {
                 "show": 1, 
@@ -160,8 +160,8 @@
             "id": "1", 
             "name": "A08 皇堡双人套餐", 
             "img": {
-                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
-                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A08_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A08_b.jpg"
             }, 
             "vote": {
                 "show": 1, 
@@ -182,8 +182,8 @@
             "id": "1", 
             "name": "A09 皇堡+薯霸王(小)", 
             "img": {
-                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
-                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A09_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A09_b.jpg"
             }, 
             "vote": {
                 "show": 1, 
@@ -204,8 +204,8 @@
             "id": "1", 
             "name": "A10 小皇堡", 
             "img": {
-                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
-                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A010_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A010_b.jpg"
             }, 
             "vote": {
                 "show": 1, 
@@ -226,8 +226,8 @@
             "id": "1", 
             "name": "A11 果木香风味火烤鸡腿堡", 
             "img": {
-                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
-                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A011_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A011_b.jpg"
             }, 
             "vote": {
                 "show": 1, 
@@ -248,8 +248,8 @@
             "id": "1", 
             "name": "A12 香脆鳕鱼堡(2个)", 
             "img": {
-                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
-                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A012_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A012_b.jpg"
             }, 
             "vote": {
                 "show": 1, 
@@ -270,8 +270,8 @@
             "id": "1", 
             "name": "A13 王道嫩香鸡块（5块）", 
             "img": {
-                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
-                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A013_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A013_b.jpg"
             }, 
             "vote": {
                 "show": 1, 
@@ -292,8 +292,8 @@
             "id": "1", 
             "name": "A14 王道川蜀鸡翅（1对）", 
             "img": {
-                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
-                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A014_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A014_b.jpg"
             }, 
             "vote": {
                 "show": 1, 
@@ -314,8 +314,8 @@
             "id": "1", 
             "name": "A15 火炬冰淇淋（2个）", 
             "img": {
-                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg", 
-                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A01_s.jpg"
+                "pic_s": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A015_s.jpg", 
+                "pic_b": "http://7xlniu.com1.z0.glb.clouddn.com/website/discount/201606_A015_b.jpg"
             }, 
             "vote": {
                 "show": 1, 
